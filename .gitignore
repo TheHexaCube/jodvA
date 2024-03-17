@@ -1,1 +1,9 @@
+# rust
+target
+
+# kicad
+pcb-backups
+fp-info-cache
+
+# environment
 .direnv
