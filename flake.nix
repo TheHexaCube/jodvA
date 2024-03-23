@@ -16,6 +16,7 @@
           packages = [
             (rust-bin.stable.latest.default.override {
               extensions = [ "rust-src" "rustfmt" ];
+              targets = [ "thumbv7em-none-eabihf" ];
             })
             stlink
           ];
