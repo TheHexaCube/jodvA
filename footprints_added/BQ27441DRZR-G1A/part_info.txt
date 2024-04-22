@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ27441DRZR-G1A
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=13
+Version=1.1
+Released=2018-06-06 14:56:35
+Downloaded=2024-04-21 21:38:15
+3D=Y
