@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FH26W_15S_0.3SHW_60_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "FH26W-15S-0.3SHW(60)" (!) = "", "FH26W15S03SHW60", "Other", "798-FH26W15S03SHW60", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH26W-15S-03SHW60?qs=vcbW%252B4%252BSTIrJNlyfMzW6OQ%3D%3D", "HIROSE(HRS) - FH26W-15S-0.3SHW(60) - FFC / FPC Board Connector, ZIF, 0.3 mm, 15 Contacts, Receptacle, FH26W, Surface Mount, Bottom", "https://www.hirose.com/product/download/?distributor=digikey&type=2d&lang=en&num=FH26W-13S-0.3SHW(60)", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FH26W-15S-0_3SHW_60_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-26-09:55:45)
+    (mountForm default
+        (footprintRef "FH26W15S03SHW60")
+        (spec "System")
+    )
+)

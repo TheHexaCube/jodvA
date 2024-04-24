@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FH26W15S03SHW60"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FH26W15S03SHW60")
+        (spec "default")
+    )
+)
